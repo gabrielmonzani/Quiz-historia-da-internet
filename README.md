@@ -8,7 +8,7 @@
 * Gabriel Gomes Ferreira
 * Matheus Bispo
 
-# Quiz sobre a História da Internet 🌐
+# Quiz sobre a História da Internet 
 
 Projeto desenvolvido para o 2º semestre do curso de Análise e Desenvolvimento de Sistemas.
 
