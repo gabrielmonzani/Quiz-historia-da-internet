@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TechQuiz - História da Internet</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Tela do Jogo -->
+    <div id="game-screen">
+      <div id="contador" class="question-counter">Carregando perguntas...</div>
+      <div id="enunciado" class="question-box"></div>
+      <div id="alternativas" class="options-grid"></div>
+      <button id="btn-proxima" class="btn" disabled style="opacity: 0.5;">Próxima</button>
+    </div>
+
+    <!-- Tela do Resumo Final -->
+    <div id="result-screen" style="display: none;">
+      <h2>Resumo do Quiz</h2>
+      <p id="score-summary" class="score-text"></p>
+      <div id="review-list" style="max-height: 400px; overflow-y: auto; padding-right: 5px;"></div>
+      <a href="index.html" class="btn" style="margin-top: 1.5rem;">Jogar Novamente</a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
