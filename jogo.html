@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TechQuiz - História da Internet</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <!-- Tela do Jogo -->
+    <section id="game-screen" aria-live="polite">
+      <div class="header-info">
+        <span id="player-display">Jogador: ---</span>
+        <span id="contador" class="question-counter">Carregando...</span>
+      </div>
+      
+      <div id="enunciado" class="question-box"></div>
+      <div id="alternativas" class="options-grid"></div>
+      
+      <!-- Feedback imediato após responder -->
+      <div id="feedback-box" class="feedback-box" style="display: none;"></div>
+      
+      <button id="btn-proxima" class="btn" disabled>Próxima</button>
+    </section>
+
+    <!-- Tela de Pontuação, Ranking e Revisão -->
+    <section id="result-screen" style="display: none;">
+      <h2>Resultado Final</h2>
+      <p id="score-summary" class="score-text"></p>
+
+      <!-- Tabela de Ranking -->
+      <div class="ranking-section">
+        <h3>🏆 Ranking dos Jogadores</h3>
+        <div class="table-wrapper">
+          <table class="ranking-table">
+            <thead>
+              <tr>
+                <th>Pos.</th>
+                <th>Jogador</th>
+                <th>Acertos</th>
+              </tr>
+            </thead>
+            <tbody id="ranking-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Revisão das Respostas -->
+      <details class="review-details">
+        <summary>Ver revisão detalhada das perguntas</summary>
+        <div id="review-list" class="review-list"></div>
+      </details>
+
+      <!-- Botões de Replay -->
+      <div class="action-buttons">
+        <button id="btn-replay" class="btn">Jogar Novamente (Mesmo Jogador)</button>
+        <a href="index.html" class="btn btn-secondary">Trocar Jogador</a>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

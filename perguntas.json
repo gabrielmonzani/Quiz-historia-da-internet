@@ -1,0 +1,1202 @@
+[
+  {
+    "pergunta": "O que mudou com a chegada da arquitetura Client-Server (Cliente-Servidor) na web?",
+    "alternativas": [
+      "Centralizou o armazenamento e processamento de dados em servidores robustos, enquanto dispositivos clientes mais leves apenas realizam as requisições visuais.",
+      "Tornou os computadores de mesa totalmente independentes de qualquer rede externa.",
+      "Eliminou a necessidade de navegadores web para visualizar páginas.",
+      "Substituiu completamente os protocolos de rede por conexões via cabo direto."
+    ],
+    "resposta_correta": "Centralizou o armazenamento e processamento de dados em servidores robustos, enquanto dispositivos clientes mais leves apenas realizam as requisições visuais.",
+    "explicacao": "O modelo cliente-servidor padronizou a web moderna separando o processamento pesado no servidor e a exibição no cliente.",
+    "fonte": "https://developer.mozilla.org"
+  },
+  {
+    "pergunta": "Qual foi o primeiro navegador gráfico de grande popularidade?",
+    "alternativas": [
+      "Netscape Navigator",
+      "Internet Explorer",
+      "Mosaic, lançado em 1993.",
+      "Google Chrome"
+    ],
+    "resposta_correta": "Mosaic, lançado em 1993.",
+    "explicacao": "O NCSA Mosaic foi o navegador pioneiro que popularizou a web com interface gráfica acessível.",
+    "fonte": "https://www.ncsa.illinois.edu"
+  },
+  {
+    "pergunta": "Quem é considerado um dos teóricos iniciais de uma rede global?",
+    "alternativas": [
+      "Tim Berners-Lee",
+      "J.C.R. Licklider, do MIT.",
+      "Alan Turing",
+      "Steve Jobs"
+    ],
+    "resposta_correta": "J.C.R. Licklider, do MIT.",
+    "explicacao": "Licklider concebeu a ideia de uma 'Rede Intergaláctica' de computadores em 1962.",
+    "fonte": "https://www.internetsociety.org"
+  },
+  {
+    "pergunta": "O que é o protocolo TCP/IP?",
+    "alternativas": [
+      "O conjunto de regras (Transmission Control Protocol / Internet Protocol) que permite que diferentes redes conversem entre si.",
+      "Um antivírus padrão para servidores web.",
+      "Uma linguagem de programação exclusiva para estilizar sites.",
+      "Um sistema de arquivos criptografados."
+    ],
+    "resposta_correta": "O conjunto de regras (Transmission Control Protocol / Internet Protocol) que permite que diferentes redes conversem entre si.",
+    "explicacao": "O TCP/IP é a fundação de comunicação padrão que sustenta toda a internet atual.",
+    "fonte": "https://www.ietf.org"
+  },
+  {
+    "pergunta": "Quem inventou o e-mail (correio eletrônico)?",
+    "alternativas": [
+      "Ray Tomlinson, em 1972.",
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Linus Torvalds"
+    ],
+    "resposta_correta": "Ray Tomlinson, em 1972.",
+    "explicacao": "Tomlinson implementou o primeiro sistema de correio eletrônico na ARPANET e introduziu o caractere @.",
+    "fonte": "https://www.computerhistory.org"
+  },
+  {
+    "pergunta": "O que faz o serviço de DNS (Domain Name System) na internet?",
+    "alternativas": [
+      "Cria páginas HTML automaticamente.",
+      "Ele traduz nomes de domínio amigáveis (como google.com) em endereços IP legíveis por computadores.",
+      "Bloqueia ataques de vírus em tempo real.",
+      "Gerencia o envio de e-mails em massa."
+    ],
+    "resposta_correta": "Ele traduz nomes de domínio amigáveis (como google.com) em endereços IP legíveis por computadores.",
+    "explicacao": "O DNS funciona como a 'lista telefônica' da internet, convertendo URLs em IPs numéricos.",
+    "fonte": "https://www.cloudflare.com"
+  },
+  {
+    "pergunta": "Qual foi a primeira palavra (tentativa de envio) na conexão histórica da ARPANET?",
+    "alternativas": [
+      "HELLO",
+      "INTERNET",
+      "A palavra seria 'LOGIN', mas o sistema travou após digitar as duas primeiras letras: 'LO'.",
+      "TEST"
+    ],
+    "resposta_correta": "A palavra seria 'LOGIN', mas o sistema travou após digitar as duas primeiras letras: 'LO'.",
+    "explicacao": "Em 29 de outubro de 1969, o sistema caiu logo após processar 'L' e 'O' na mensagem inicial.",
+    "fonte": "https://history.computer.org"
+  },
+  {
+    "pergunta": "Como o Internet Explorer ganhou grande parcela de mercado nos anos 90?",
+    "alternativas": [
+      "Sendo empacotado e distribuído gratuitamente junto com o sistema operacional Windows.",
+      "Por ser o único navegador existente na época.",
+      "Porque era mais rápido que qualquer outro software pago.",
+      "Por ter sido criado diretamente pela Apple."
+    ],
+    "resposta_correta": "Sendo empacotado e distribuído gratuitamente junto com o sistema operacional Windows.",
+    "explicacao": "Essa estratégia agressiva da Microsoft marcou o ápice da primeira Guerra dos Navegadores contra o Netscape.",
+    "fonte": "https://www.justice.gov"
+  },
+  {
+    "pergunta": "O que foi o fenômeno da 'Bolha Ponto-Com' (Dot-com bubble)?",
+    "alternativas": [
+      "Uma falha global de servidores que apagou a internet em 2000.",
+      "A supervalorização especulativa de empresas de internet no final dos anos 1990, que estourou por volta de 2000–2001.",
+      "A proibição do uso comercial de domínios .com.",
+      "A criação do primeiro antivírus comercial."
+    ],
+    "resposta_correta": "A supervalorização especulativa de empresas de internet no final dos anos 1990, que estourou por volta de 2000–2001.",
+    "explicacao": "Muitas empresas ponto-com abriram capital na bolsa sem lucro real, gerando uma forte crise financeira no setor.",
+    "fonte": "https://www.history.com"
+  },
+  {
+    "pergunta": "Para que serve o protocolo ICMP na internet?",
+    "alternativas": [
+      "Para criptografar páginas web.",
+      "É usado para enviar mensagens de erro e relatórios operacionais de rede, sendo a base de ferramentas de diagnóstico como o comando ping.",
+      "Para carregar arquivos de imagem pesados.",
+      "Para conectar computadores via Bluetooth."
+    ],
+    "resposta_correta": "É usado para enviar mensagens de erro e relatórios operacionais de rede, sendo a base de ferramentas de diagnóstico como o comando ping.",
+    "explicacao": "O ICMP ajuda administradores a testar a acessibilidade de nós em uma rede IP.",
+    "fonte": "https://datatracker.ietf.org/doc/html/rfc792"
+  },
+  {
+    "pergunta": "Qual a principal diferença entre os protocolos IPv4 e IPv6?",
+    "alternativas": [
+      "O IPv4 usa endereços de 32 bits e está esgotado, enquanto o IPv6 usa 128 bits, garantindo uma quantidade massiva de novos endereços.",
+      "O IPv4 é exclusivo para celulares e o IPv6 para computadores.",
+      "O IPv6 é mais lento e foi descontinuado.",
+      "Não há diferenças práticas de capacidade."
+    ],
+    "resposta_correta": "O IPv4 usa endereços de 32 bits e está esgotado, enquanto o IPv6 usa 128 bits, garantindo uma quantidade massiva de novos endereços.",
+    "explicacao": "O esgotamento do IPv4 exigiu a transição gradual para o IPv6 para suportar bilhões de novos dispositivos.",
+    "fonte": "https://www.iana.org"
+  },
+  {
+    "pergunta": "O que caracteriza a Web 1.0?",
+    "alternativas": [
+      "Era estática; os usuários apenas liam o conteúdo sem conseguir interagir ou comentar nas páginas.",
+      "Foco total em redes sociais e vídeos virais.",
+      "Uso intensivo de inteligência artificial generativa.",
+      "Integração profunda com dispositivos móveis."
+    ],
+    "resposta_correta": "Era estática; os usuários apenas liam o conteúdo sem conseguir interagir ou comentar nas páginas.",
+    "explicacao": "A Web 1.0 era composta majoritariamente por páginas informativas estáticas criadas em HTML puro.",
+    "fonte": "https://www.w3.org"
+  },
+  {
+    "pergunta": "Qual a diferença entre 'Internet' e 'World Wide Web'?",
+    "alternativas": [
+      "São exatamente a mesma coisa com nomes diferentes.",
+      "A Internet é a infraestrutura física de redes conectadas; a WWW é o sistema de páginas e hipertextos que rodam sobre essa infraestrutura.",
+      "A WWW é a rede física e a Internet são os sites.",
+      "A Internet foi criada nos anos 2000 e a Web nos anos 1960."
+    ],
+    "resposta_correta": "A Internet é a infraestrutura física de redes conectadas; a WWW é o sistema de páginas e hipertextos que rodam sobre essa infraestrutura.",
+    "explicacao": "Muitos confundem, mas a web é um serviço que roda por cima da rede física da internet.",
+    "fonte": "https://home.cern"
+  },
+  {
+    "pergunta": "Quando o uso comercial da internet foi oficialmente liberado nos Estados Unidos?",
+    "alternativas": [
+      "Em 1969",
+      "Teve seus marcos definitivos de desregulamentação comercial concluídos em 1995.",
+      "Apenas em 2010",
+      "Em 1980"
+    ],
+    "resposta_correta": "Teve seus marcos definitivos de desregulamentação comercial concluídos em 1995.",
+    "explicacao": "Com o encerramento do patrocínio da NSFNET em 1995, o tráfego comercial livre dominou a rede.",
+    "fonte": "https://www.nsf.gov"
+  },
+  {
+    "pergunta": "O que é uma URL?",
+    "alternativas": [
+      "Uniform Resource Locator (Localizador Uniforme de Recursos, ou o endereço amigável da página).",
+      "Um protocolo de segurança de e-mail.",
+      "Uma linguagem de estilização.",
+      "Um tipo de hardware de rede."
+    ],
+    "resposta_correta": "Uniform Resource Locator (Localizador Uniforme de Recursos, ou o endereço amigável da página).",
+    "explicacao": "A URL define o caminho padrão para localizar recursos e páginas web na internet.",
+    "fonte": "https://developer.mozilla.org"
+  },
+  {
+    "pergunta": "O que foi o projeto GNU e como ele se conecta à história da internet?",
+    "alternativas": [
+      "Foi um projeto de software livre iniciado por Richard Stallman que forneceu as ferramentas de base para o sistema operacional Linux, que hoje roda na maioria dos servidores da internet.",
+      "Uma rede social militar secreta.",
+      "Um navegador concorrente do Internet Explorer.",
+      "Um padrão de cabos de fibra ótica."
+    ],
+    "resposta_correta": "Foi um projeto de software livre iniciado por Richard Stallman que forneceu as ferramentas de base para o sistema operacional Linux, que hoje roda na maioria dos servidores da internet.",
+    "explicacao": "O ecossistema GNU/Linux sustenta a grande maioria da infraestrutura de servidores da web atual.",
+    "fonte": "https://www.gnu.org"
+  },
+  {
+    "pergunta": "O que foi a 'Guerra dos Navegadores' (Browser Wars)?",
+    "alternativas": [
+      "A disputa comercial acirrada entre o Netscape Navigator e o Microsoft Internet Explorer nos anos 90.",
+      "Uma guerra cibernética entre países na Guerra Fria.",
+      "O conflito judicial sobre os direitos autorais do Google.",
+      "A disputa pelo primeiro domínio .com registrado."
+    ],
+    "resposta_correta": "A disputa comercial acirrada entre o Netscape Navigator e o Microsoft Internet Explorer nos anos 90.",
+    "explicacao": "Essa rivalidade moldou os padrões web iniciais e as políticas antitruste da indústria de tecnologia.",
+    "fonte": "https://www.livinginternet.com"
+  },
+  {
+    "pergunta": "Qual órgão criou a ARPANET?",
+    "alternativas": [
+      "A NASA",
+      "O Departamento de Defesa dos Estados Unidos, por meio da agência ARPA (atual DARPA).",
+      "O MIT",
+      "A Microsoft"
+    ],
+    "resposta_correta": "O Departamento de Defesa dos Estados Unidos, por meio da agência ARPA (atual DARPA).",
+    "explicacao": "A ARPANET foi financiada pela Advanced Research Projects Agency para fins de pesquisa militar.",
+    "fonte": "https://www.darpa.mil"
+  },
+  {
+    "pergunta": "Quem inventou a World Wide Web (WWW)?",
+    "alternativas": [
+      "Vint Cerf",
+      "O cientista britânico Tim Berners-Lee, em 1989.",
+      "Steve Wozniak",
+      "Alan Kay"
+    ],
+    "resposta_correta": "O cientista britânico Tim Berners-Lee, em 1989.",
+    "explicacao": "Berners-Lee propôs o sistema de hipertexto enquanto trabalhava no CERN.",
+    "fonte": "https://home.cern"
+  },
+  {
+    "pergunta": "O que significa HTML?",
+    "alternativas": [
+      "HyperText Markup Language (Linguagem de Marcação de Hipertexto).",
+      "High Tech Modern Language",
+      "Hyperlink Transfer Machine Logic",
+      "Home Tool Multi Language"
+    ],
+    "resposta_correta": "HyperText Markup Language (Linguagem de Marcação de Hipertexto).",
+    "explicacao": "O HTML é a linguagem padrão utilizada para estruturar páginas web.",
+    "fonte": "https://www.w3.org"
+  },
+  {
+    "pergunta": "Em que data ocorreu a primeira conexão bem-sucedida na ARPANET?",
+    "alternativas": [
+      "Em 29 de outubro de 1969.",
+      "Em 15 de março de 1985.",
+      "Em 1 de janeiro de 1970.",
+      "Em 4 de julho de 1991."
+    ],
+    "resposta_correta": "Em 29 de outubro de 1969.",
+    "explicacao": "A data marca o envio da primeira mensagem entre computadores da UCLA e do SRI.",
+    "fonte": "https://history.computer.org"
+  },
+  {
+    "pergunta": "O que era a comutação de pacotes?",
+    "alternativas": [
+      "Um método de dividir dados em pequenos blocos (pacotes) que viajam por rotas independentes e se reúnem de forma ordenada no destino.",
+      "O envio de cartas físicas pelos correios.",
+      "Um sistema de criptografia bancária.",
+      "Uma forma de ligar linhas telefônicas fixas."
+    ],
+    "resposta_correta": "Um método de dividir dados em pequenos blocos (pacotes) que viajam por rotas independentes e se reúnem de forma ordenada no destino.",
+    "explicacao": "Essa tecnologia substituiu a comutação de circuitos da telefonia tradicional, garantindo resiliência à rede.",
+    "fonte": "https://www.internetsociety.org"
+  },
+  {
+    "pergunta": "Qual navegador substituiu o Mosaic e dominou a primeira metade dos anos 90?",
+    "alternativas": [
+      "Netscape Navigator.",
+      "Safari",
+      "Opera",
+      "Firefox"
+    ],
+    "resposta_correta": "Netscape Navigator.",
+    "explicacao": "Fundado por ex-desenvolvedores do Mosaic, o Netscape dominou o mercado inicial de navegadores.",
+    "fonte": "https://www.computerhistory.org"
+  },
+  {
+    "pergunta": "O que significa HTTP?",
+    "alternativas": [
+      "HyperText Transfer Protocol (Protocolo de Transferência de Hipertexto).",
+      "High Transfer Text Program",
+      "Hyperlink Transmission Test Process",
+      "Host Terminal Type Protocol"
+    ],
+    "resposta_correta": "HyperText Transfer Protocol (Protocolo de Transferência de Hipertexto).",
+    "explicacao": "É o protocolo fundamental usado para transferir páginas web na internet.",
+    "fonte": "https://developer.mozilla.org"
+  },
+  {
+    "pergunta": "Por que a comutação de pacotes era revolucionária para a época?",
+    "alternativas": [
+      "Porque se uma rota física caísse ou fosse destruída, os pacotes encontravam automaticamente outro caminho disponível.",
+      "Porque tornava o envio de dados instantâneo e sem custos de eletricidade.",
+      "Porque impedia qualquer tipo de interceptação de dados.",
+      "Porque dispensava o uso de computadores."
+    ],
+    "resposta_correta": "Porque se uma rota física caísse ou fosse destruída, os pacotes encontravam automaticamente outro caminho disponível.",
+    "explicacao": "Essa robustez descentralizada era crucial para manter comunicações militares e acadêmicas ativas em cenários de falhas.",
+    "fonte": "https://www.darpa.mil"
+  },
+  {
+    "pergunta": "O que foi o iG (Internet Group) no Brasil?",
+    "alternativas": [
+      "Um portal lançado em 2000 que revolucionou o mercado oferecendo acesso à internet discada 'grátis' (o usuário pagava apenas os pulsos telefônicos locais).",
+      "Uma estatal de telecomunicações criada nos anos 70.",
+      "O primeiro provedor de internet via satélite.",
+      "Uma rede social brasileira anterior ao Orkut."
+    ],
+    "resposta_correta": "Um portal lançado em 2000 que revolucionou o mercado oferecendo acesso à internet discada 'grátis' (o usuário pagava apenas os pulsos telefônicos locais).",
+    "explicacao": "O iG impulsionou a expansão da base de usuários de internet no Brasil no início dos anos 2000.",
+    "fonte": "https://www.folha.uol.com.br"
+  },
+  {
+    "pergunta": "Quando a internet começou a ser desenvolvida?",
+    "alternativas": [
+      "Na década de 1960.",
+      "Na década de 1980.",
+      "Na década de 1950.",
+      "Na década de 1990."
+    ],
+    "resposta_correta": "Na década de 1960.",
+    "explicacao": "Os primórdios da pesquisa em redes de computadores iniciaram-se nos anos 60 com projetos da DARPA.",
+    "fonte": "https://www.internetsociety.org"
+  },
+  {
+    "pergunta": "O que foi a MILNET criada em 1984?",
+    "alternativas": [
+      "A divisão da antiga ARPANET em uma rede estritamente militar (MILNET) e uma rede de uso civil/acadêmico.",
+      "Um satélite militar de comunicação.",
+      "O primeiro sistema operacional de mísseis.",
+      "Uma rede secreta de computadores europeus."
+    ],
+    "resposta_correta": "A divisão da antiga ARPANET em uma rede estritamente militar (MILNET) e uma rede de uso civil/acadêmico.",
+    "explicacao": "Essa separação garantiu maior segurança para operações de defesa e autonomia para o meio acadêmico.",
+    "fonte": "https://www.nsf.gov"
+  },
+  {
+    "pergunta": "Qual a diferença fundamental entre os protocolos de transporte TCP e UDP?",
+    "alternativas": [
+      "O TCP é orientado à conexão e garante a entrega correta dos pacotes (confiável), enquanto o UDP apenas envia os dados sem checar a recepção (mais rápido, ideal para streamings e jogos).",
+      "O TCP é usado apenas no celular e o UDP no computador.",
+      "Não há diferenças de desempenho.",
+      "O UDP é mais seguro e criptografado que o TCP."
+    ],
+    "resposta_correta": "O TCP é orientado à conexão e garante a entrega correta dos pacotes (confiável), enquanto o UDP apenas envia os dados sem checar a recepção (mais rápido, ideal para streamings e jogos).",
+    "explicacao": "A escolha entre TCP e UDP equilibra a necessidade de confiabilidade versus velocidade de transmissão.",
+    "fonte": "https://datatracker.ietf.org/doc/html/rfc793"
+  },
+  {
+    "pergunta": "Qual a função do protocolo DHCP na arquitetura de redes da internet?",
+    "alternativas": [
+      "Ele atribui automaticamente endereços IP temporários e configurações de rede (como máscara e gateway) para os dispositivos que se conectam.",
+      "Ele bloqueia sites maliciosos.",
+      "Ele acelera a velocidade da conexão de fibra ótica.",
+      "Ele converte domínios em IPs."
+    ],
+    "resposta_correta": "Ele atribui automaticamente endereços IP temporários e configurações de rede (como máscara e gateway) para os dispositivos que se conectam.",
+    "explicacao": "O DHCP elimina a necessidade de configuração manual de IPs em cada dispositivo de uma rede.",
+    "fonte": "https://datatracker.ietf.org/doc/html/rfc2131"
+  },
+  {
+    "pergunta": "O que era a USENET?",
+    "alternativas": [
+      "Uma rede baseada em fóruns de discussão descentralizados, considerada a precursora dos grupos de notícias na internet antiga.",
+      "O primeiro sistema de busca da web.",
+      "Uma rede exclusiva do governo americano.",
+      "Um provedor de acesso discado americano."
+    ],
+    "resposta_correta": "Uma rede baseada em fóruns de discussão descentralizados, considerada a precursora dos grupos de notícias na internet antiga.",
+    "explicacao": "Criada em 1979, a USENET permitia troca global de mensagens organizadas em categorias (newsgroups).",
+    "fonte": "https://www.livinginternet.com"
+  },
+  {
+    "pergunta": "Quando foi lançado o primeiro site da história?",
+    "alternativas": [
+      "Em 1991.",
+      "Em 1985.",
+      "Em 1995.",
+      "Em 1989."
+    ],
+    "resposta_correta": "Em 1991.",
+    "explicacao": "O primeiro site (info.cern.ch) entrou no ar em agosto de 1991, criado por Tim Berners-Lee.",
+    "fonte": "https://home.cern"
+  },
+  {
+    "pergunta": "O que foi a NSFNET?",
+    "alternativas": [
+      "Uma rede da Fundação Nacional de Ciência dos EUA que impulsionou o backbone acadêmico e interconectou supercomputadores nos anos 80.",
+      "Uma empresa privada de telecomunicações.",
+      "O primeiro antivírus de grande escala.",
+      "Um sistema de troca de e-mails militares."
+    ],
+    "resposta_correta": "Uma rede da Fundação Nacional de Ciência dos EUA que impulsionou o backbone acadêmico e interconectou supercomputadores nos anos 80.",
+    "explicacao": "A NSFNET serviu como a espinha dorsal principal da internet acadêmica durante os anos 80 e início dos 90.",
+    "fonte": "https://www.nsf.gov"
+  },
+  {
+    "pergunta": "Por que Tim Berners-Lee não ficou bilionário com a criação da Web?",
+    "alternativas": [
+      "Porque ele decidiu disponibilizar a tecnologia da WWW livre de royalties e sem patentes para o mundo todo.",
+      "Porque o projeto foi roubado por concorrentes.",
+      "Porque a web faliu logo no primeiro ano.",
+      "Porque o governo britânico proibiu a cobrança."
+    ],
+    "resposta_correta": "Porque ele decidiu disponibilizar a tecnologia da WWW livre de royalties e sem patentes para o mundo todo.",
+    "explicacao": "Essa decisão altruísta garantiu a rápida adoção global e aberta da World Wide Web.",
+    "fonte": "https://home.cern"
+  },
+  {
+    "pergunta": "Qual símbolo Ray Tomlinson escolheu para separar o usuário do endereço de rede no e-mail?",
+    "alternativas": [
+      "O símbolo @ (at).",
+      "O caractere #",
+      "O símbolo &",
+      "O caractere /"
+    ],
+    "resposta_correta": "O símbolo @ (at).",
+    "explicacao": "Tomlinson escolheu o '@' em 1971 para indicar que o usuário estava 'em' determinado computador host.",
+    "fonte": "https://www.computerhistory.org"
+  },
+  {
+    "pergunta": "O que continha o primeiro site da história da internet?",
+    "alternativas": [
+      "Explicações técnicas sobre o funcionamento do projeto World Wide Web.",
+      "Anúncios de produtos comerciais.",
+      "Vídeos virais de gatinhos.",
+      "O placar de jogos esportivos."
+    ],
+    "resposta_correta": "Explicações técnicas sobre o funcionamento do projeto World Wide Web.",
+    "explicacao": "O site descrevia o que era a Web, como acessar servidores e como criar suas próprias páginas.",
+    "fonte": "https://home.cern"
+  },
+  {
+    "pergunta": "O que era a conexão discada (dial-up)?",
+    "alternativas": [
+      "Um tipo de acesso residencial que utilizava a linha telefônica comum e ocupava o sinal de telefone enquanto o usuário navegava.",
+      "Uma conexão via satélite de alta velocidade.",
+      "Uma rede privada de cabos subterrâneos.",
+      "Um sistema de internet móvel por ondas de rádio."
+    ],
+    "resposta_correta": "Um tipo de acesso residencial que utilizava a linha telefônica comum e ocupava o sinal de telefone enquanto o usuário navegava.",
+    "explicacao": "A discada barateou o acesso doméstico nos anos 90, embora fosse lenta e ocupasse a linha de voz.",
+    "fonte": "https://www.techtudo.com.br"
+  },
+  {
+    "pergunta": "Quando a ARPANET original foi desativada?",
+    "alternativas": [
+      "Em 1990.",
+      "Em 1975.",
+      "Em 2000.",
+      "Em 1982."
+    ],
+    "resposta_correta": "Em 1990.",
+    "explicacao": "A ARPANET foi oficialmente desligada em 1990, tendo cumprido seu papel histórico de transição para novas arquiteturas.",
+    "fonte": "https://www.livinginternet.com"
+  },
+  {
+    "pergunta": "Quando surgiu o Yahoo!?",
+    "alternativas": [
+      "Em 1994, fundado por Jerry Yang e David Filo.",
+      "Em 1999, por Larry Page.",
+      "Em 1988, no MIT.",
+      "Em 2004, em Harvard."
+    ],
+    "resposta_correta": "Em 1994, fundado por Jerry Yang e David Filo.",
+    "explicacao": "O Yahoo! começou como um diretório web de catalogação antes de se tornar um grande portal.",
+    "fonte": "https://www.yahoo.com"
+  },
+  {
+    "pergunta": "Quando o Google foi fundado?",
+    "alternativas": [
+      "Em 1998, por Larry Page e Sergey Brin.",
+      "Em 1991, por Tim Berners-Lee.",
+      "Em 2001, por Jimmy Wales.",
+      "Em 1995, por Jeff Bezos."
+    ],
+    "resposta_correta": "Em 1998, por Larry Page e Sergey Brin.",
+    "explicacao": "O mecanismo de busca revolucionou a indexação web com o algoritmo PageRank.",
+    "fonte": "https://about.google"
+  },
+  {
+    "pergunta": "O que era o FTP (File Transfer Protocol)?",
+    "alternativas": [
+      "Um protocolo cliente-servidor desenvolvido nos anos 1970 dedicado exclusivamente para a transferência de arquivos em rede.",
+      "Um sistema operacional para servidores web.",
+      "Um formato de compactação de imagens.",
+      "O protocolo padrão para envio de e-mails."
+    ],
+    "resposta_correta": "Um protocolo cliente-servidor desenvolvido nos anos 1970 dedicado exclusivamente para a transferência de arquivos em rede.",
+    "explicacao": "O FTP permitia enviar e baixar arquivos entre computadores antes da popularização da interface web.",
+    "fonte": "https://datatracker.ietf.org/doc/html/rfc959"
+  },
+  {
+    "pergunta": "Quando a internet chegou de forma experimental ao Brasil?",
+    "alternativas": [
+      "No final da década de 1980 (por volta de 1988–1989), ligando universidades brasileiras a redes nos EUA.",
+      "Em 1995, junto com o comércio eletrônico.",
+      "Apenas no ano 2000.",
+      "Em 1972, durante o regime militar."
+    ],
+    "resposta_correta": "No final da década de 1980 (por volta de 1988–1989), ligando universidades brasileiras a redes nos EUA.",
+    "explicacao": "A FAPESP e a RNP lideraram os primeiros testes de conexão acadêmica internacional no final dos anos 80.",
+    "fonte": "https://www.rnp.br"
+  },
+  {
+    "pergunta": "O que foi a RNP (Rede Nacional de Pesquisa)?",
+    "alternativas": [
+      "Uma organização criada em 1989 pelo governo brasileiro para projetar e implantar a infraestrutura da primeira rede acadêmica nacional.",
+      "Uma empresa privada de TV a cabo.",
+      "O primeiro portal de notícias do Brasil.",
+      "Um provedor comercial de internet discada."
+    ],
+    "resposta_correta": "Uma organização criada em 1989 pelo governo brasileiro para projetar e implantar a infraestrutura da primeira rede acadêmica nacional.",
+    "explicacao": "A RNP foi fundamental para conectar universidades e institutos de pesquisa brasileiros à internet global.",
+    "fonte": "https://www.rnp.br"
+  },
+  {
+    "pergunta": "Quando o acesso comercial à internet foi liberado para o público geral no Brasil?",
+    "alternativas": [
+      "Em 1995.",
+      "Em 1988.",
+      "Em 2002.",
+      "Em 1990."
+    ],
+    "resposta_correta": "Em 1995.",
+    "explicacao": "A Portaria Interministerial nº 3 de 1995 regulamentou a exploração comercial de serviços de acesso à internet no país.",
+    "fonte": "https://www.mctic.gov.br"
+  },
+  {
+    "pergunta": "Qual instituição acadêmica brasileira foi uma das pioneiras na conexão com os Estados Unidos?",
+    "alternativas": [
+      "A FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) junto à UFRJ.",
+      "A Universidade de Brasília apenas.",
+      "O ITA e o IME.",
+      "A USP isoladamente sem apoios externos."
+    ],
+    "resposta_correta": "A FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) junto à UFRJ.",
+    "explicacao": "A FAPESP estabeleceu conexões pioneiras via satélite ligando São Paulo a redes de pesquisa americanas.",
+    "fonte": "https://www.fapesp.br"
+  },
+  {
+    "pergunta": "Qual era o principal provedor estatal inicial de acesso comercial em nível nacional no Brasil?",
+    "alternativas": [
+      "A Embratel, que operava a espinha dorsal de comunicação para os provedores privados.",
+      "A Correios e Telégrafos (ECT).",
+      "A Petrobras.",
+      "O Banco do Brasil."
+    ],
+    "resposta_correta": "A Embratel, que operava a espinha dorsal de comunicação para os provedores privados.",
+    "explicacao": "A Embratel fornecia o backbone de telecomunicações necessário para interligar os provedores comerciais iniciais.",
+    "fonte": "https://www.embratel.com.br"
+  },
+  {
+    "pergunta": "Qual foi um portal de conteúdo e buscas nacional muito popular no Brasil nos anos 90 e 2000?",
+    "alternativas": [
+      "O UOL (Universo Online).",
+      "O Baidu Brasil",
+      "O Bing Nacional",
+      "O Ask Jeeves BR"
+    ],
+    "resposta_correta": "O UOL (Universo Online).",
+    "explicacao": "Lançado pelo Grupo Folha em 1996, o UOL tornou-se um dos maiores portais de conteúdo e provedores do país.",
+    "fonte": "https://sobre.uol.com.br"
+  },
+  {
+    "pergunta": "O que foi o AOL no Brasil?",
+    "alternativas": [
+      "A filial brasileira do gigante americano America Online, que tentou dominar o mercado nacional distribuindo CDs de instalação de internet nos anos 2000.",
+      "Uma agência governamental de regulação web.",
+      "O primeiro sistema de banda larga a cabo.",
+      "Um software de bate-papo corporativo."
+    ],
+    "resposta_correta": "A filial brasileira do gigante americano America Online, que tentou dominar o mercado nacional distribuindo CDs de instalação de internet nos anos 2000.",
+    "explicacao": "A estratégia agressiva de marketing com CDs gratuitos marcou a era da internet discada no país.",
+    "fonte": "https://www.folha.uol.com.br"
+  },
+  {
+    "pergunta": "Quando a banda larga residencial começou a substituir a internet discada no Brasil em massa?",
+    "alternativas": [
+      "No início dos anos 2000, com a popularização do ADSL e da TV a cabo.",
+      "Somente após 2015.",
+      "Em 1992, logo após a criação da web.",
+      "Durante a década de 1980."
+    ],
+    "resposta_correta": "No início dos anos 2000, com a popularização do ADSL e da TV a cabo.",
+    "explicacao": "A banda larga eliminou a cobrança por pulso telefônico por minuto e ofereceu conexão permanente.",
+    "fonte": "https://www.techtudo.com.br"
+  },
+  {
+    "pergunta": "O que define o conceito de Web 2.0?",
+    "alternativas": [
+      "A fase colaborativa e interativa da web, onde as plataformas deixaram de ser estáticas e o próprio usuário passou a gerar o conteúdo (blogs, redes sociais).",
+      "A transição exclusiva para telas sensíveis ao toque.",
+      "O fim total do uso de navegadores web.",
+      "A obrigatoriedade de pagamento para navegar."
+    ],
+    "resposta_correta": "A fase colaborativa e interativa da web, onde as plataformas deixaram de ser estáticas e o próprio usuário passou a gerar o conteúdo (blogs, redes sociais).",
+    "explicacao": "O termo cunhado em 2004 marcou a era da participação ativa do usuário (Read/Write Web).",
+    "fonte": "https://www.oreilly.com"
+  },
+  {
+    "pergunta": "Qual foi uma das primeiras redes sociais de grande sucesso massivo no Brasil nos anos 2000?",
+    "alternativas": [
+      "O Orkut, lançado pelo Google em 2004.",
+      "O TikTok",
+      "O Instagram",
+      "O LinkedIn"
+    ],
+    "resposta_correta": "O Orkut, lançado pelo Google em 2004.",
+    "explicacao": "O Orkut marcou profundamente a cultura digital brasileira com suas comunidades e depoimentos.",
+    "fonte": "https://about.google"
+  },
+  {
+    "pergunta": "Quando o Facebook foi criado originalmente?",
+    "alternativas": [
+      "Em 2004, por Mark Zuckerberg e seus colegas em Harvard.",
+      "Em 1998, no Vale do Silício.",
+      "Em 2010, em Londres.",
+      "Em 2000, em Nova York."
+    ],
+    "resposta_correta": "Em 2004, por Mark Zuckerberg e seus colegas em Harvard.",
+    "explicacao": "O Facebook começou restrito ao meio universitário antes de se expandir globalmente.",
+    "fonte": "https://about.meta.com"
+  },
+  {
+    "pergunta": "Quando o YouTube foi fundado?",
+    "alternativas": [
+      "Em 2005, sendo comprado pelo Google no ano seguinte (2006).",
+      "Em 1999",
+      "Em 2012",
+      "Em 2001"
+    ],
+    "resposta_correta": "Em 2005, sendo comprado pelo Google no ano seguinte (2006).",
+    "explicacao": "O YouTube revolucionou o compartilhamento de vídeos amadores e profissionais na internet.",
+    "fonte": "https://blog.youtube"
+  },
+  {
+    "pergunta": "Qual foi o primeiro vídeo enviado ao YouTube na história?",
+    "alternativas": [
+      "'Me at the zoo', postado pelo cofundador Jawed Karim em abril de 2005.",
+      "Um videoclipe musical de 1990.",
+      "O discurso de lançamento do primeiro iPhone.",
+      "Um tutorial de programação em HTML."
+    ],
+    "resposta_correta": "'Me at the zoo', postado pelo cofundador Jawed Karim em abril de 2005.",
+    "explicacao": "O vídeo de 18 segundos gravado no zoológico de San Diego tornou-se um marco histórico.",
+    "fonte": "https://blog.youtube"
+  },
+  {
+    "pergunta": "Quando o Twitter (atual X) foi lançado no mercado?",
+    "alternativas": [
+      "Em 2006.",
+      "Em 2002.",
+      "Em 2010.",
+      "Em 1999."
+    ],
+    "resposta_correta": "Em 2006.",
+    "explicacao": "A plataforma popularizou o formato de microblogging com limite inicial de 140 caracteres.",
+    "fonte": "https://about.twitter.com"
+  },
+  {
+    "pergunta": "O que é um blog (weblog)?",
+    "alternativas": [
+      "Um site de formato diário ou crônica online que ganhou enorme força de publicação individual nos anos 2000.",
+      "Um banco de dados criptografado.",
+      "Uma ferramenta de edição de vídeos em 4K.",
+      "Um protocolo de segurança de rede."
+    ],
+    "resposta_correta": "Um site de formato diário ou crônica online que ganhou enorme força de publicação individual nos anos 2000.",
+    "explicacao": "Os blogs democratizaram a publicação de conteúdo pessoal e especializado antes das redes sociais modernas.",
+    "fonte": "https://www.w3.org"
+  },
+  {
+    "pergunta": "O que é a Wikipédia?",
+    "alternativas": [
+      "Uma enciclopédia global e multilíngue baseada em colaboração aberta e software Wiki, lançada em 2001.",
+      "Um portal de notícias governamental.",
+      "Um mecanismo de busca de empregos.",
+      "Uma rede social corporativa."
+    ],
+    "resposta_correta": "Uma enciclopédia global e multilíngue baseada em colaboração aberta e software Wiki, lançada em 2001.",
+    "explicacao": "Criada por Jimmy Wales e Larry Sanger, tornou-se a maior obra de referência colaborativa da história.",
+    "fonte": "https://wikimediafoundation.org"
+  },
+  {
+    "pergunta": "O que foi o protocolo P2P (Peer-to-Peer)?",
+    "alternativas": [
+      "Sistemas de rede descentralizados onde cada computador atua tanto como cliente quanto como servidor para compartilhamento de arquivos (ex: Napster).",
+      "Um sistema de pagamentos via cartão de crédito na web.",
+      "Um padrão de conexão de cabos de rede locais.",
+      "Uma tecnologia de segurança para servidores de e-mail."
+    ],
+    "resposta_correta": "Sistemas de rede descentralizados onde cada computador atua tanto como cliente quanto como servidor para compartilhamento de arquivos (ex: Napster).",
+    "explicacao": "O P2P revolucionou a distribuição de arquivos pesados, gerando grandes debates jurídicos sobre direitos autorais.",
+    "fonte": "https://www.eff.org"
+  },
+  {
+    "pergunta": "Qual evento de hardware em 2007 mudou a forma como consumimos internet móvel?",
+    "alternativas": [
+      "O lançamento do iPhone pela Apple, que popularizou telas multitoque e navegação web móvel completa.",
+      "A invenção do roteador Wi-Fi doméstico.",
+      "O surgimento dos primeiros cabos submarinos de fibra ótica.",
+      "A criação do primeiro processador quad-core para celulares."
+    ],
+    "resposta_correta": "O lançamento do iPhone pela Apple, que popularizou telas multitoque e navegação web móvel completa.",
+    "explicacao": "O iPhone acelerou a transição da navegação móvel WAP básica para a experiência rica de internet de bolso.",
+    "fonte": "https://www.apple.com"
+  },
+  {
+    "pergunta": "O que é o WhatsApp no contexto histórico de comunicação da internet?",
+    "alternativas": [
+      "Um aplicativo de mensagens instantâneas baseado em IP lançado em 2009 que praticamente substituiu o SMS das operadoras de telefonia.",
+      "Um serviço de e-mail corporativo em nuvem.",
+      "O primeiro navegador otimizado para tablets.",
+      "Uma rede social voltada para jogos online."
+    ],
+    "resposta_correta": "Um aplicativo de mensagens instantâneas baseado em IP lançado em 2009 que praticamente substituiu o SMS das operadoras de telefonia.",
+    "explicacao": "O WhatsApp popularizou o envio instantâneo de texto, áudio e mídia utilizando conexão de dados móveis ou Wi-Fi.",
+    "fonte": "https://www.whatsapp.com"
+  },
+  {
+    "pergunta": "O que é a computação em Nuvem (Cloud Computing)?",
+    "alternativas": [
+      "O modelo de armazenamento e processamento de dados feito em servidores remotos conectados via internet, reduzindo a dependência de hardware local.",
+      "O uso de internet via satélites meteorológicos.",
+      "Uma tecnologia de transmissão de dados sem fio por cabos aéreos.",
+      "Um sistema operacional exclusivo para computadores da Apple."
+    ],
+    "resposta_correta": "O modelo de armazenamento e processamento de dados feito em servidores remotos conectados via internet, reduzindo a dependência de hardware local.",
+    "explicacao": "A nuvem transformou a infraestrutura de TI, permitindo escalabilidade sob demanda para empresas e usuários.",
+    "fonte": "https://aws.amazon.com"
+  },
+  {
+    "pergunta": "O que é a Internet das Coisas (IoT)?",
+    "alternativas": [
+      "O conceito tecnológico que conecta objetos físicos do cotidiano (como lâmpadas, geladeiras e relógios) à internet para automação e coleta de dados.",
+      "Uma rede de computadores antigos desativados.",
+      "O conjunto de todos os sites de comércio eletrônico do mundo.",
+      "Um protocolo de segurança para redes corporativas."
+    ],
+    "resposta_correta": "O conceito tecnológico que conecta objetos físicos do cotidiano (como lâmpadas, geladeiras e relógios) à internet para automação e coleta de dados.",
+    "explicacao": "A IoT expandiu a internet para além de computadores e smartphones, integrando o ambiente físico.",
+    "fonte": "https://www.iotforall.com"
+  },
+  {
+    "pergunta": "O que representam as siglas 4G e 5G?",
+    "alternativas": [
+      "Diferentes gerações de padrões e tecnologias de redes de internet móvel de alta velocidade e baixa latência.",
+      "Tipos de criptografia de senhas bancárias.",
+      "Modelos de servidores web em nuvem.",
+      "Versões do protocolo IP."
+    ],
+    "resposta_correta": "Diferentes gerações de padrões e tecnologias de redes de internet móvel de alta velocidade e baixa latência.",
+    "explicacao": "Cada evolução móvel trouxe ganhos exponenciais de largura de banda e capacidade de conexão simultânea.",
+    "fonte": "https://www.itu.int"
+  },
+  {
+    "pergunta": "O que é a Deep Web?",
+    "alternativas": [
+      "A camada oculta da internet que contém páginas e dados que não são indexados ou encontrados por motores de busca tradicionais (como o Google).",
+      "Um vírus de computador que rouba dados bancários.",
+      "A rede de computadores subterrâneos do governo americano.",
+      "Uma rede social restrita a bilionários."
+    ],
+    "resposta_correta": "A camada oculta da internet que contém páginas e dados que não são indexados ou encontrados por motores de busca tradicionais (como o Google).",
+    "explicacao": "Inclui bancos de dados protegidos por senha, intranets corporativas e páginas sem links públicos.",
+    "fonte": "https://www.cloudflare.com"
+  },
+  {
+    "pergunta": "O que é a Dark Web?",
+    "alternativas": [
+      "Uma fração específica e restrita da Deep Web que exige o uso de softwares de criptografia específicos (como o navegador Tor) para navegar com anonimato.",
+      "A parte da internet que só funciona à noite.",
+      "Um conjunto de servidores corrompidos por hackers.",
+      "O código-fonte secreto do Google."
+    ],
+    "resposta_correta": "Uma fração específica e restrita da Deep Web que exige o uso de softwares de criptografia específicos (como o navegador Tor) para navegar com anonimato.",
+    "explicacao": "A Dark Web utiliza roteamento cebola para mascarar a identidade e localização dos usuários e servidores.",
+    "fonte": "https://www.torproject.org"
+  },
+  {
+    "pergunta": "O que é um domínio de topo (TLD)?",
+    "alternativas": [
+      "As extensões finais dos endereços web, como por exemplo .com, .org, .net ou .br.",
+      "O computador principal de uma rede local.",
+      "A velocidade máxima de download de um site.",
+      "O protocolo de segurança mais avançado da web."
+    ],
+    "resposta_correta": "As extensões finais dos endereços web, como por exemplo .com, .org, .net ou .br.",
+    "explicacao": "Os TLDs estruturam a hierarquia do sistema de nomes de domínio (DNS) globalmente.",
+    "fonte": "https://www.icann.org"
+  },
+  {
+    "pergunta": "Quem gerencia a atribuição global de nomes de domínio e números de endereços IP?",
+    "alternativas": [
+      "A ICANN (Internet Corporation for Assigned Names and Numbers).",
+      "A Microsoft",
+      "O MIT",
+      "A ONU diretamente"
+    ],
+    "resposta_correta": "A ICANN (Internet Corporation for Assigned Names and Numbers).",
+    "explicacao": "A ICANN coordena a manutenção e os procedimentos de vários bancos de dados referentes aos namespaces da internet.",
+    "fonte": "https://www.icann.org"
+  },
+  {
+    "pergunta": "O que foi o caso do Vírus Morris em 1988?",
+    "alternativas": [
+      "Um dos primeiros 'worms' de computador a se espalhar em larga escala pela internet acadêmica, expondo as primeiras grandes vulnerabilidades de segurança da rede.",
+      "O primeiro antivírus comercial lançado no mercado.",
+      "Um ataque cibernético que derrubou a Casa Blanca.",
+      "Um vírus que infectou os primeiros celulares."
+    ],
+    "resposta_correta": "Um dos primeiros 'worms' de computador a se espalhar em larga escala pela internet acadêmica, expondo as primeiras grandes vulnerabilidades de segurança da rede.",
+    "explicacao": "Criado por Robert Tappan Morris, o worm paralisou milhares de máquinas e motivou a criação do CERT de segurança.",
+    "fonte": "https://www.fbi.gov"
+  },
+  {
+    "pergunta": "O que é o golpe de Phishing?",
+    "alternativas": [
+      "Uma técnica de engenharia social usada para enganar usuários e roubar dados confidenciais simulando páginas e comunicações de marcas confiáveis.",
+      "Um ataque para derrubar servidores por sobrecarga de tráfego.",
+      "Um vírus que apaga arquivos do disco rígido.",
+      "Uma falha no protocolo Wi-Fi."
+    ],
+    "resposta_correta": "Uma técnica de engenharia social usada para enganar usuários e roubar dados confidenciais simulando páginas e comunicações de marcas confiáveis.",
+    "explicacao": "O phishing explora a desatenção humana para capturar senhas, CPFs e dados de cartão de crédito.",
+    "fonte": "https://www.antifishing.org"
+  },
+  {
+    "pergunta": "O que é um Firewall na segurança de redes?",
+    "alternativas": [
+      "Um dispositivo de segurança (software ou hardware) que monitora e filtra o tráfego de dados de entrada e saída com base em regras predefinidas.",
+      "Um cabo de rede blindado contra incêndios.",
+      "Um programa para limpar arquivos temporários.",
+      "Um sistema de resfriamento para servidores."
+    ],
+    "resposta_correta": "Um dispositivo de segurança (software ou hardware) que monitora e filtra o tráfego de dados de entrada e saída com base em regras predefinidas.",
+    "explicacao": "O firewall atua como uma barreira de controle entre redes internas confiáveis e redes externas desconfiadas.",
+    "fonte": "https://www.cisco.com"
+  },
+  {
+    "pergunta": "O que é a LGPD no cenário digital brasileiro?",
+    "alternativas": [
+      "A Lei Geral de Proteção de Dados (Lei nº 13.709), criada para regulamentar e proteger os dados pessoais coletados por empresas na internet.",
+      "A lei que taxa o uso de banda larga no Brasil.",
+      "O marco regulatório dos provedores de TV a cabo.",
+      "A lei que proíbe o comércio eletrônico sem nota fiscal."
+    ],
+    "resposta_correta": "A Lei Geral de Proteção de Dados (Lei nº 13.709), criada para regulamentar e proteger os dados pessoais coletados por empresas na internet.",
+    "explicacao": "A LGPD garante direitos aos titulares de dados e impõe obrigações rigorosas de privacidade às empresas.",
+    "fonte": "https://www.gov.br/anpd"
+  },
+  {
+    "pergunta": "O que foi o Marco Civil da Internet aprovado no Brasil em 2014?",
+    "alternativas": [
+      "Uma lei que estabeleceu os direitos, deveres, garantias dos usuários e princípios fundamentais para o uso da internet no país.",
+      "O decreto que criou a primeira conexão de fibra ótica nacional.",
+      "A lei que abriu o mercado para a chegada do Google.",
+      "O documento que proibiu o acesso a redes sociais em escolas."
+    ],
+    "resposta_correta": "Uma lei que estabeleceu os direitos, deveres, garantias dos usuários e princípios fundamentais para o uso da internet no país.",
+    "explicacao": "O Marco Civil é considerado a 'constituição da internet' no Brasil, consagrando a neutralidade de rede.",
+    "fonte": "https://www.planalto.gov.br"
+  },
+  {
+    "pergunta": "O que defende o princípio da 'Neutralidade de Rede'?",
+    "alternativas": [
+      "Que os provedores de acesso devem tratar todo o tráfego de dados da mesma forma, sem priorizar ou cobrar a mais por determinados tipos de conteúdos ou serviços.",
+      "Que todos os sites da internet devem ser gratuitos.",
+      "Que o governo deve controlar o conteúdo publicado online.",
+      "Que as operadoras podem bloquear concorrentes livremente."
+    ],
+    "resposta_correta": "Que os provedores de acesso devem tratar todo o tráfego de dados da mesma forma, sem priorizar ou cobrar a mais por determinados tipos de conteúdos ou serviços.",
+    "explicacao": "A neutralidade garante que a internet permaneça um ambiente aberto e sem discriminação de tráfego.",
+    "fonte": "https://www.aclu.org"
+  },
+  {
+    "pergunta": "O que é um Cookie de navegador?",
+    "alternativas": [
+      "Um pequeno arquivo de texto enviado por sites e salvo no computador do usuário para lembrar dados de sessão ou preferências de navegação.",
+      "Um vírus que infecta arquivos de mídia.",
+      "Uma extensão para acelerar downloads.",
+      "Um formato de imagem leve para web."
+    ],
+    "resposta_correta": "Um pequeno arquivo de texto enviado por sites e salvo no computador do usuário para lembrar dados de sessão ou preferências de navegação.",
+    "explicacao": "Os cookies são essenciais para manter usuários logados e personalizar a experiência de navegação.",
+    "fonte": "https://developer.mozilla.org"
+  },
+  {
+    "pergunta": "O que é o Spam?",
+    "alternativas": [
+      "O envio massivo e automatizado de mensagens eletrônicas não solicitadas, geralmente associado a publicidade abusiva ou golpes.",
+      "Um erro de conexão de rede.",
+      "Um protocolo de segurança de e-mail.",
+      "Um tipo de arquivo compactado."
+    ],
+    "resposta_correta": "O envio massivo e automatizado de mensagens eletrônicas não solicitadas, geralmente associado a publicidade abusiva ou golpes.",
+    "explicacao": "O spam consome recursos de servidores e representa um vetor constante para fraudes online.",
+    "fonte": "https://www.ftc.gov"
+  },
+  {
+    "pergunta": "Qual o papel dos cabos submarinos de fibra ótica na internet atual?",
+    "alternativas": [
+      "Eles são os responsáveis físicos por transportar mais de 99% do tráfego transcontinental de dados entre os continentes.",
+      "Eles servem apenas para ligar roteadores domésticos.",
+      "Eles distribuem sinal de internet via satélite.",
+      "Eles foram substituídos por conexões sem fio espaciais."
+    ],
+    "resposta_correta": "Eles são os responsáveis físicos por transportar mais de 99% do tráfego transcontinental de dados entre os continentes.",
+    "explicacao": "A verdadeira espinha dorsal da internet global corre pelo fundo dos oceanos através de cabos de fibra ótica de alta capacidade.",
+    "fonte": "https://www.telegeography.com"
+  },
+  {
+    "pergunta": "Quem é o dono oficial da internet global?",
+    "alternativas": [
+      "Ninguém de forma centralizada; ela funciona como um ecossistema de redes interconectadas voluntariamente sob padrões abertos universais.",
+      "O governo dos Estados Unidos.",
+      "Uma aliança entre Google, Microsoft e Apple.",
+      "A Organização das Nações Unidas (ONU)."
+    ],
+    "resposta_correta": "Ninguém de forma centralizada; ela funciona como um ecossistema de redes interconectadas voluntariamente sob padrões abertos universais.",
+    "explicacao": "A internet é descentralizada por natureza, operando através de acordos de peering e padrões abertos.",
+    "fonte": "https://www.internetsociety.org"
+  },
+  {
+    "pergunta": "O que conceitua a visão moderna de Web 3.0?",
+    "alternativas": [
+      "Uma evolução da web baseada em protocolos descentralizados, tecnologia Blockchain e maior controle de privacidade por parte do usuário.",
+      "O fim total do uso de computadores de mesa.",
+      "A exigência de pagamentos em ouro para navegar.",
+      "Um sistema de TV via internet por assinatura."
+    ],
+    "resposta_correta": "Uma evolução da web baseada em protocolos descentralizados, tecnologia Blockchain e maior controle de privacidade por parte do usuário.",
+    "explicacao": "A Web 3.0 propõe descentralização de dados e novas formas de propriedade digital com criptografia.",
+    "fonte": "https://ethereum.org"
+  },
+  {
+    "pergunta": "O que é o Metaverso?",
+    "alternativas": [
+      "Um conceito de ambiente virtual tridimensional integrado e imersivo que tenta unir interações sociais digitais e realidade virtual.",
+      "Um novo modelo de servidor web.",
+      "Um sistema operacional quântico.",
+      "Uma rede social voltada exclusivamente para empresas."
+    ],
+    "resposta_correta": "Um conceito de ambiente virtual tridimensional integrado e imersivo que tenta unir interações sociais digitais e realidade virtual.",
+    "explicacao": "O termo explora experiências imersivas combinando realidade virtual (VR) e aumentada (AR).",
+    "fonte": "https://about.meta.com"
+  },
+  {
+    "pergunta": "Como as ferramentas de Inteligência Artificial Generativa impactam os motores de busca tradicionais hoje?",
+    "alternativas": [
+      "Elas alteram a busca por links estáticos para o fornecimento de respostas diretas, contextualizadas e sintetizadas em linguagem natural.",
+      "Elas tornam os buscadores obsoletos e apagados da internet.",
+      "Elas impedem que novos sites sejam criados.",
+      "Elas reduzem a velocidade da internet móvel."
+    ],
+    "resposta_correta": "Elas alteram a busca por links estáticos para o fornecimento de respostas diretas, contextualizadas e sintetizadas em linguagem natural.",
+    "explicacao": "A IA generativa redefiniu a experiência de pesquisa, respondendo dúvidas complexas diretamente com resumos sintéticos.",
+    "fonte": "https://blog.google"
+  },
+  {
+    "pergunta": "Quem são considerados os principais inventores e arquitetos do protocolo TCP/IP nos anos 70?",
+    "alternativas": [
+      "Vint Cerf e Robert Kahn.",
+      "Tim Berners-Lee e Robert Cailliau.",
+      "Steve Jobs e Steve Wozniak.",
+      "Bill Gates e Paul Allen."
+    ],
+    "resposta_correta": "Vint Cerf e Robert Kahn.",
+    "explicacao": "Cerf e Kahn desenvolveram o TCP/IP em 1974, estabelecendo as bases de interconexão de redes.",
+    "fonte": "https://www.internetsociety.org"
+  },
+  {
+    "pergunta": "O que foi o protocolo NCP (Network Control Protocol)?",
+    "alternativas": [
+      "O primeiro protocolo de controle de rede utilizado para gerenciar a comunicação na infraestrutura inicial da ARPANET.",
+      "O antecessor do protocolo de e-mail.",
+      "Um sistema de criptografia militar.",
+      "Uma linguagem de programação para redes."
+    ],
+    "resposta_correta": "O primeiro protocolo de controle de rede utilizado para gerenciar a comunicação na infraestrutura inicial da ARPANET.",
+    "explicacao": "O NCP gerenciava conexões na ARPANET antes de ser substituído oficialmente pelo TCP/IP em 1983.",
+    "fonte": "https://history.computer.org"
+  },
+  {
+    "pergunta": "O que significa a tecnologia ADSL, muito comum nos anos 2000?",
+    "alternativas": [
+      "Asymmetric Digital Subscriber Line, uma tecnologia que permitia transmitir dados em alta velocidade usando as linhas telefônicas de cobre tradicionais.",
+      "Advanced Dial-up Secure Link",
+      "Automatic Data System Link",
+      "Analog Digital Server Line"
+    ],
+    "resposta_correta": "Asymmetric Digital Subscriber Line, uma tecnologia que permitia transmitir dados em alta velocidade usando as linhas telefônicas de cobre tradicionais.",
+    "explicacao": "O ADSL permitia usar a mesma linha de telefone para falar e navegar em banda larga simultaneamente.",
+    "fonte": "https://www.itu.int"
+  },
+  {
+    "pergunta": "O que foi o 'Bug do Milênio' (Ano 2000) e como impactou a internet?",
+    "alternativas": [
+      "Foi o medo de que sistemas de computadores antigos falhassem ao virar o ano de 99 para 00 por armazenarem o ano com apenas dois dígitos, gerando uma grande corrida global de atualização de software.",
+      "Uma pane elétrica que desligou todos os cabos submarinos.",
+      "Um vírus que apagou os domínios .com em 2000.",
+      "A falha generalizada dos navegadores web."
+    ],
+    "resposta_correta": "Foi o medo de que sistemas de computadores antigos falhassem ao virar o ano de 99 para 00 por armazenarem o ano com apenas dois dígitos, gerando uma grande corrida global de atualização de software.",
+    "explicacao": "Graças a intensas auditorias prévias de código em servidores e sistemas, falhas catastróficas foram evitadas na virada.",
+    "fonte": "https://www.history.com"
+  },
+  {
+    "pergunta": "Qual as duas instituições universitárias americanas que realizaram a primeira conexão de nós na história da ARPANET?",
+    "alternativas": [
+      "A Universidade da Califórnia em Los Angeles (UCLA) e o Stanford Research Institute (SRI).",
+      "O MIT e Harvard.",
+      "Princeton e Yale.",
+      "Caltech e Stanford."
+    ],
+    "resposta_correta": "A Universidade da Califórnia em Los Angeles (UCLA) e o Stanford Research Institute (SRI).",
+    "explicacao": "Esses foram os primeiros nós da ARPANET conectados em outubro de 1969.",
+    "fonte": "https://history.computer.org"
+  },
+  {
+    "pergunta": "O que significa a sigla WWW criada por Tim Berners-Lee?",
+    "alternativas": [
+      "World Wide Web (Rede Mundial de Computadores).",
+      "Wide World Wireless",
+      "Web World Working",
+      "Wireless World Web"
+    ],
+    "resposta_correta": "World Wide Web (Rede Mundial de Computadores).",
+    "explicacao": "A WWW define o sistema global de documentos em hipertexto acessíveis via internet.",
+    "fonte": "https://home.cern"
+  },
+  {
+    "pergunta": "Com que finalidade geopolítica inicial a internet começou a ser financiada nos Estados Unidos?",
+    "alternativas": [
+      "Fins militares e estratégicos de comunicação descentralizada durante o período da Guerra Fria.",
+      "Para impulsionar o comércio eletrônico de varejo.",
+      "Para entretenimento doméstico e jogos online.",
+      "Para integrar redes de televisão a cabo."
+    ],
+    "resposta_correta": "Fins militares e estratégicos de comunicação descentralizada durante o período da Guerra Fria.",
+    "explicacao": "A pesquisa em redes visava garantir resiliência de comando e controle militar diante de ataques.",
+    "fonte": "https://www.darpa.mil"
+  },
+  {
+    "pergunta": "O que é um servidor web?",
+    "alternativas": [
+      "É um software (como Apache ou Nginx) rodando em um hardware que processa requisições HTTP feitas pelos clientes (navegadores) e devolve páginas web.",
+      "Um computador pessoal usado para acessar redes sociais.",
+      "Um cabo de alta velocidade para fibra ótica.",
+      "Um programa antivírus para servidores de e-mail."
+    ],
+    "resposta_correta": "É um software (como Apache ou Nginx) rodando em um hardware que processa requisições HTTP feitas pelos clientes (navegadores) e devolve páginas web.",
+    "explicacao": "O servidor web armazena e serve os arquivos das páginas solicitadas pelos navegadores dos usuários.",
+    "fonte": "https://httpd.apache.org"
+  },
+  {
+    "pergunta": "Em que data o protocolo TCP/IP se tornou o padrão obrigatório e oficial da ARPANET?",
+    "alternativas": [
+      "Em 1º de janeiro de 1983.",
+      "Em 29 de outubro de 1969.",
+      "Em 12 de agosto de 1991.",
+      "Em 4 de julho de 1975."
+    ],
+    "resposta_correta": "Em 1º de janeiro de 1983.",
+    "explicacao": "Essa data marcou a 'flag-day' em que a ARPANET adotou oficialmente o TCP/IP, unificando a arquitetura.",
+    "fonte": "https://www.ietf.org"
+  },
+  {
+    "pergunta": "Por que o modelo OSI é importante para entender a internet, embora ela use a pilha TCP/IP?",
+    "alternativas": [
+      "Porque o modelo OSI divide a comunicação de rede em 7 camadas conceituais, facilitando o aprendizado e a padronização de protocolos.",
+      "Porque ele substituiu completamente o TCP/IP nos servidores modernos.",
+      "Porque foi criado pelo criador da web.",
+      "Porque garante criptografia automática de dados."
+    ],
+    "resposta_correta": "Porque o modelo OSI divide a comunicação de rede em 7 camadas conceituais, facilitando o aprendizado e a padronização de protocolos.",
+    "explicacao": "O modelo de referência OSI serve como excelente base teórica para o estudo de arquiteturas de redes.",
+    "fonte": "https://www.iso.org"
+  },
+  {
+    "pergunta": "O que é o Backbone da internet?",
+    "alternativas": [
+      "É a espinha dorsal ou rede de transporte principal de alta velocidade que conecta as grandes redes locais e regionais ao redor do mundo.",
+      "O roteador Wi-Fi instalado dentro de uma residência.",
+      "O sistema de segurança que protege servidores governamentais.",
+      "A base de dados onde ficam registrados os domínios .br."
+    ],
+    "resposta_correta": "É a espinha dorsal ou rede de transporte principal de alta velocidade que conecta as grandes redes locais e regionais ao redor do mundo.",
+    "explicacao": "O backbone reúne as rotas de maior capacidade de tráfego na infraestrutura global de telecomunicações.",
+    "fonte": "https://www.cisco.com"
+  },
+  {
+    "pergunta": "Qual a função do comando Traceroute (ou tracert)?",
+    "alternativas": [
+      "Ele mapeia e mostra o caminho exato (os roteadores/saltos) que um pacote de dados percorre do seu computador até o servidor de destino.",
+      "Ele mede a velocidade exata de download em megabits.",
+      "Ele bloqueia endereços IP maliciosos automaticamente.",
+      "Ele apaga o histórico de navegação do navegador."
+    ],
+    "resposta_correta": "Ele mapeia e mostra o caminho exato (os roteadores/saltos) que um pacote de dados percorre do seu computador até o servidor de destino.",
+    "explicacao": "O traceroute utiliza mensagens ICMP ou UDP para diagnosticar gargalos e falhas de rota em redes.",
+    "fonte": "https://www.ietf.org"
+  },
+  {
+    "pergunta": "Qual país possui hoje o maior mercado consumidor absoluto em número de usuários conectados à internet?",
+    "alternativas": [
+      "A China.",
+      "Os Estados Unidos",
+      "O Brasil",
+      "A Alemanha"
+    ],
+    "resposta_correta": "A China.",
+    "explicacao": "Devido à sua vasta população e rápida expansão digital, a China lidera o ranking de usuários absolutos.",
+    "fonte": "https://www.itu.int"
+  },
+  {
+    "pergunta": "Qual a diferença funcional entre os protocolos HTTP e HTTPS?",
+    "alternativas": [
+      "O HTTPS adiciona uma camada de segurança (criptografia TLS/SSL) sobre o HTTP para proteger os dados trafegados.",
+      "O HTTPS é mais lento e foi descontinuado.",
+      "O HTTP é usado apenas para imagens e o HTTPS para textos.",
+      "Não há nenhuma diferença de segurança."
+    ],
+    "resposta_correta": "O HTTPS adiciona uma camada de segurança (criptografia TLS/SSL) sobre o HTTP para proteger os dados trafegados.",
+    "explicacao": "O HTTPS impede a interceptação e alteração de dados entre o navegador e o servidor web.",
+    "fonte": "https://developer.mozilla.org"
+  },
+  {
+    "pergunta": "O que era o sistema de arquivos distribuídos Napster que causou polêmica jurídica em 1999?",
+    "alternativas": [
+      "O pioneiro programa de compartilhamento de músicas em MP3 baseado na arquitetura peer-to-peer (P2P).",
+      "O primeiro antivírus comercial para Windows.",
+      "Um sistema de pagamentos online por cartão.",
+      "Um portal de notícias de tecnologia."
+    ],
+    "resposta_correta": "O pioneiro programa de compartilhamento de músicas em MP3 baseado na arquitetura peer-to-peer (P2P).",
+    "explicacao": "O Napster chacoalhou a indústria fonográfica ao permitir que usuários trocassem músicas diretamente entre si.",
+    "fonte": "https://www.eff.org"
+  },
+  {
+    "pergunta": "Para qual órgão de pesquisa científica Tim Berners-Lee trabalhava quando desenvolveu as bases da web moderna?",
+    "alternativas": [
+      "O CERN (Organização Europeia para a Pesquisa Nuclear), situado na fronteira entre a Suíça e a França.",
+      "A NASA, nos Estados Unidos.",
+      "O MIT, em Massachusetts.",
+      "A DARPA, em Washington."
+    ],
+    "resposta_correta": "O CERN (Organização Europeia para a Pesquisa Nuclear), situado na fronteira entre a Suíça e a França.",
+    "explicacao": "Berners-Lee criou a web no CERN para facilitar a troca de informações entre físicos de diferentes países.",
+    "fonte": "https://home.cern"
+  },
+  {
+    "pergunta": "O que mudou conceitualmente na transição entre a internet discada e a internet em Banda Larga?",
+    "alternativas": [
+      "A banda larga trouxe conexões permanentes (sem necessidade de discagem) e frequências de transmissão muito superiores.",
+      "A banda larga tornou a internet totalmente gratuita.",
+      "A banda larga eliminou a necessidade de usar computadores.",
+      "A discada era mais rápida que a banda larga inicial."
+    ],
+    "resposta_correta": "A banda larga trouxe conexões permanentes (sem necessidade de discagem) e frequências de transmissão muito superiores.",
+    "explicacao": "A conexão sempre ativa mudou definitivamente os hábitos de consumo e uso contínuo da rede.",
+    "fonte": "https://www.techtudo.com.br"
+  },
+  {
+    "pergunta": "Atualmente, qual a estimativa aproximada da população do planeta que possui acesso ativo à internet?",
+    "alternativas": [
+      "Mais de 5 bilhões de pessoas (representando mais de 60% da população global).",
+      "Menos de 1 bilhão de pessoas.",
+      "Exatamente 500 milhões de pessoas.",
+      "100% da população mundial."
+    ],
+    "resposta_correta": "Mais de 5 bilhões de pessoas (representando mais de 60% da população global).",
+    "explicacao": "Relatórios recentes da União Internacional de Telecomunicações (ITU) apontam que mais de dois terços da humanidade está conectada.",
+    "fonte": "https://www.itu.int"
+  },
+  {
+    "pergunta": "Qual o nome da rede precursora que deu origem ao ecossistema atual de internet?",
+    "alternativas": [
+      "ARPANET.",
+      "NSFNET",
+      "MILNET",
+      "Ethernet local"
+    ],
+    "resposta_correta": "ARPANET.",
+    "explicacao": "A ARPANET é universalmente reconhecida como a rede pioneira que deu origem à internet moderna.",
+    "fonte": "https://www.internetsociety.org"
+  },
+  {
+    "pergunta": "O que motivou a mudança de paradigma do protocolo IPv4 para o IPv6 na infraestrutura global?",
+    "alternativas": [
+      "O esgotamento prático da quantidade de endereços IPs públicos disponíveis gerado pela proliferação de novos dispositivos conectados à rede.",
+      "Uma ordem judicial internacional.",
+      "A invenção de cabos de fibra ótica mais rápidos.",
+      "O fim do uso de computadores pessoais."
+    ],
+    "resposta_correta": "O esgotamento prático da quantidade de endereços IPs públicos disponíveis gerado pela proliferação de novos dispositivos conectados à rede.",
+    "explicacao": "Com o limite de 4 bilhões de endereços do IPv4 atingido, a adoção do IPv6 tornou-se vital para a expansão da internet.",
+    "fonte": "https://www.iana.org"
+  }
+]

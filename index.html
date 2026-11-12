@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TechQuiz - Começo da Internet</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="container">
+    <h1>TechQuiz: Começo da Internet</h1>
+    <p>Teste seus conhecimentos sobre a evolução da rede, desde os projetos militares pioneiros até a criação da World Wide Web.</p>
+    
+    <form id="start-form" class="start-form">
+      <label for="player-name" class="sr-only">Digite seu nome para jogar:</label>
+      <input 
+        type="text" 
+        id="player-name" 
+        placeholder="Digite seu nome..." 
+        required 
+        maxlength="30"
+        autocomplete="off"
+      >
+      <button type="submit" class="btn">Iniciar Quiz</button>
+    </form>
+
+    <div style="margin-top: 2rem; border-top: 1px solid #334155; padding-top: 1rem;">
+      <button type="button" id="btn-zerar-ranking" class="btn-secondary">Zerar Ranking</button>
+    </div>
+  </main>
+
+  <script>
+    // Salva o nome e redireciona para o jogo
+    document.getElementById('start-form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      const nome = document.getElementById('player-name').value.trim();
+      if (nome) {
+        localStorage.setItem('techquiz_jogador_atual', nome);
+        window.location.href = 'jogo.html';
+      }
+    });
+
+    // Zera o ranking para demonstrações
+    document.getElementById('btn-zerar-ranking').addEventListener('click', () => {
+      if (confirm('Deseja realmente apagar todo o histórico do ranking?')) {
+        localStorage.removeItem('techquiz_ranking');
+        alert('Ranking zerado com sucesso!');
+      }
+    });
+  </script>
+</body>
+</html>
